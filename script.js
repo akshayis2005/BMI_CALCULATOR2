@@ -91,5 +91,5 @@ function resetBMI() {
 function logout()
 {
     localStorage.clear()
-    window.location.href="Bmilogin.html"
+    window.location.href="main.html"
 }
