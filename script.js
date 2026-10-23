@@ -17,7 +17,7 @@ function login()
         alert("fill the all inputs")
      }
     localStorage.setItem("psw",password);
-    window.location.href="a.html"
+    window.location.href="main.html"
 
 }
 
